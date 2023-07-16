@@ -8,4 +8,20 @@
 *{
     margin: 0px;
     padding: 0px;
+    background-color: antiquewhite;
+    
+}
+header{
+    margin:40px 240px;
+    
+}
+
+nav{
+    display: flex;
+}
+nav > ul{
+    list-style: none;
+    display: flex;
+    margin-left: 120px;
+    gap: 100px;
 }
